@@ -1,10 +1,10 @@
 How to run the Online Furniture Shop Management System (OFSMS) Project
 
-1. Download the  zip file
+1. Clone this repo.
 
-2. Extract the file and copy ofsms folder
+2. Copy the ofsms folder.
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -12,7 +12,7 @@ How to run the Online Furniture Shop Management System (OFSMS) Project
 
 6. Import ofsmsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/ofsms (frontend)
+7. Run the script http://localhost/ofsms (frontend)
 
 
 
